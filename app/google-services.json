@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "248202730530",
+    "firebase_url": "https://widgetsthings-c7930-default-rtdb.firebaseio.com",
+    "project_id": "widgetsthings-c7930",
+    "storage_bucket": "widgetsthings-c7930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248202730530:android:dd5cf9a7ecdb10eb2b7e7b",
+        "android_client_info": {
+          "package_name": "me.eroveloc.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrEVJznPDQbqHQD7_6k5YRVE_BSKMmRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
